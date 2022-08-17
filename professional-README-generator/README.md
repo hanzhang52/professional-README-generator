@@ -2,11 +2,13 @@
 
 ## Description
 
-## User Story
+With this README generator, a user can expect to generate a professional README for their new project. This assignment was created using Node JS and terminal to make this possible, at the same time meeting the required accaptance criteria down below.
 
 ![Screenshot 1](./assets/acceptanceccriteria.png)
 
-## ScreenShot
+## Screenshot of the repository running
+
+![Screenshot 1](./assets/screenshot.png)
 
 ## License
 
